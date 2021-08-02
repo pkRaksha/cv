@@ -1,0 +1,62 @@
+body 
+{
+    background-color:#FDD2BF; 
+      
+}
+
+hr
+{
+    background-color:#FDD2BF;
+    border-top-style: dotted  ;
+    width :5%;
+    border-top-width:4px;
+    border-top-color:grey;
+    border-bottom-color:transparent;
+    border-right-color:transparent;
+    border-left-color:transparent;
+    
+    
+}
+
+h1
+{
+    color:lightcoral;
+    text-shadow: 2px 2px 5px black;
+    font-style: italic
+}
+
+h2
+{
+   color:salmon;
+   text-shadow: 2px 2px 5px palevioletred;
+   font-style: italic;
+}
+
+.resin
+{
+    color:coral;
+    
+}
+
+.art
+{
+    width:100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin:0 auto 0 auto;
+    
+
+    
+}
+
+.profile
+{
+    width:250px;
+    height: 250px;
+}
+
+img:hover
+{
+    background-color:yellow;
+}
+
